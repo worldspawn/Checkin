@@ -1,0 +1,13 @@
+{
+    "name": "checkin-status",
+    "description": "Checkin and Checkout of your work",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+		"coffee-script": "latest",
+        "express": "3.x"
+    },
+    "scripts": {
+		"start": "coffee -w app.coffee"
+	}
+}
